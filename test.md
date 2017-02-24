@@ -1,4 +1,4 @@
-* [Lorem ipsum](#https://github.com/maseyka/maven-hello-world/new/master#Lorem-ipsum)
+* [Lorem ipsum](#Lorem-ipsum)
 
 
 
