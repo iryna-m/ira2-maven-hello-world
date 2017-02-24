@@ -1,10 +1,10 @@
-* [Lorem ipsum](#Lorem-ipsum-1)
-* [Lorem ipsum](#Lorem-ipsum-2)
-* [Lorem ipsum](#Lorem-ipsum-3)
-* [Lorem ipsum](#Lorem-ipsum-4)
-* [Lorem ipsum](#Lorem-ipsum-5)
-* [Lorem ipsum](#Lorem-ipsum-6)
-* [Lorem ipsum](#Lorem-ipsum-7)
+* [Lorem ipsum](#lorem-ipsum-1)
+* [Lorem ipsum](#lorem-ipsum-2)
+* [Lorem ipsum](#lorem-ipsum-3)
+* [Lorem ipsum](#lorem-ipsum-4)
+* [Lorem ipsum](#lorem-ipsum-5)
+* [Lorem ipsum](#lorem-ipsum-6)
+* [Lorem ipsum](#lorem-ipsum-7)
 
 ## Lorem ipsum 1
 
